@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - narrative
 post: https://www.barbarianmeetscoding.com/blog/how-to-write-a-game-under-13k-while-taking-care-of-a-baby
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
